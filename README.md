@@ -5,4 +5,9 @@
   - JavaScript
   - HTML5
   - CSS3
-  - BootStrap
+  - BootStrap  
+    
+- 実装したもの
+  - アカウント作成画面
+  - 入力チェック機能
+  - パスワード文字数チェック機能
