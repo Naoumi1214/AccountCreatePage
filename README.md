@@ -1,0 +1,2 @@
+# AccountCreatePage
+よくありそうなアカウントを生成する画面です
