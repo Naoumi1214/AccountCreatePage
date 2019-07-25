@@ -5,7 +5,7 @@
   - JavaScript
   - HTML5
   - CSS3
-  - BootStrap  
+  - BootStrap4  
     
 - 実装したもの
   - アカウント作成画面
