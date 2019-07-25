@@ -1,0 +1,15 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -68,9 +68,12 @@
+                     class="glyphicon glyphicon-chevron-right"></span></button>
+         </div>
+     </div>
++    
++    <canvas class="background"></canvas>    
+     <script src="framework/bootstrap/jquery-3.3.1.slim.min.js"></script>
+     <script src="framework/bootstrap/bootstrap.bundle.min.js"></script>
+     <script src="js/TextCheck.js"></script>
++    <script src="js/particles.min.js"></script>
+ </body>
+ 
+ </html>
+\ No newline at end of file
